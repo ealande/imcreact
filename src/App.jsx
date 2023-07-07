@@ -5,7 +5,6 @@ function App() {
   return (
   <>
   <Form />
-  <button type="submit">Calculate</button>
   </>)
 }
 
